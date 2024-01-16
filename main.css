@@ -20,9 +20,9 @@ body {
 } */
 .portfolio-link {
   position: fixed;
-  left: 50px;
-  bottom: 50px;
-  color: #fff;
+  left: 60px;
+  bottom: 60px;
+  color: #ba2ad1;
   text-decoration: none;
-  font-size: 24px;
+  font-size: 40px;
 }
